@@ -28,6 +28,12 @@
 | Username | `lika` |
 | Password | `live` |
 
+若想要移除目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd -d $(whoami)
+```
+
 
 
 
