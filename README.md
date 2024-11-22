@@ -21,6 +21,16 @@
 
 
 
+## Lika OS / Live System
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `lika` |
+| Password | `live` |
+
+
+
+
 ## ISO Profile
 
 > 關於「lika-live-build-config」這個專案，是「Live ISO 產生架構」。
