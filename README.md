@@ -31,7 +31,7 @@
 
 > 以下的專案，則是會複製「lika-live-build-config」這個專案。
 
-> 並將「自訂的設定檔」，複製到「lika-live-build-config」這個專案。
+> 並將「自訂的設定檔」，覆蓋到「lika-live-build-config」這個專案。
 
 > 最後再進行「製作 Debian Live ISO」的流程。
 
