@@ -16,7 +16,7 @@
 ## 主題
 
 * [ISO Profile](#iso-profile)
-* [Boot ISO By GRUB](#boot-iso-bygrub)
+* [Boot ISO By GRUB](#boot-iso-by-grub)
 * [相關筆記](#相關筆記)
 
 
