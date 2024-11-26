@@ -2,7 +2,7 @@
 
 # 首頁
 
-> Lika OS 探索筆記
+> Lika OS / Live Build Config / 探索筆記
 
 | Link | GitHub |
 | ---- | ------ |
