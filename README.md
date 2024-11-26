@@ -17,23 +17,8 @@
 
 * [ISO Profile](#iso-profile)
 * [Boot ISO By GRUB](#boot-iso-by-grub)
+* [Lika OS / Live System](#lika-os--live-system)
 * [相關筆記](#相關筆記)
-
-
-
-
-## Lika OS / Live System
-
-| Account  | Value  |
-| -------- | ------ |
-| Username | `lika` |
-| Password | `live` |
-
-若想要移除目前帳號的密碼，可以執行下面指令
-
-``` sh
-sudo passwd -d $(whoami)
-```
 
 
 
@@ -117,13 +102,29 @@ menuentry "Lika OS" --class Debian {
 
 
 
+## Lika OS / Live System
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `lika` |
+| Password | `live` |
+
+若想要移除目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd -d $(whoami)
+```
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
-| [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
+| [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-debian-iso-builder) |
 
 
 
