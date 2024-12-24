@@ -1,6 +1,6 @@
 ---
 title: Variety Config
-nav_order: 9012
+nav_order: 9013
 has_children: false
 parent: ISO Build
 grand_parent: 議題
