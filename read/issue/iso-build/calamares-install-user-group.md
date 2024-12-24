@@ -194,7 +194,6 @@ grep scanner /var/lib/dpkg/info/*.postinst -R | less
 
 ## 連結
 
-* https://wiki.debian.org/SystemGroups
-* https://wiki.debian.org/Printing
-* https://wiki.debian.org/SystemPrinting
-* https://salsa.debian.org/live-team/calamares-settings-debian/-/blob/master/calamares/modules/users.conf?ref_type=heads#L12-L13
+* Debian Wiki / [SystemGroups](https://wiki.debian.org/SystemGroups)
+* Debian Wiki / [Printing](https://wiki.debian.org/Printing)
+* Debian Wiki / [SystemPrinting](https://wiki.debian.org/SystemPrinting)
