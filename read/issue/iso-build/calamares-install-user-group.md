@@ -43,7 +43,7 @@ uid=1000(sam) gid=1000(sam) groups=1000(sam),24(cdrom),25(floppy),27(sudo),29(au
 我是複製「Package: [calamares-settings-debian](https://salsa.debian.org/live-team/calamares-settings-debian/-/tree/master/calamares?ref_type=heads)」的內容來[修改而成](https://github.com/samwhelp/lika-live-build-respin-xfce/tree/main/factory/installer/calamares)的。
 
 
-其中有一個模組「[/etc/calamares/modules/users.conf](https://github.com/samwhelp/lika-live-build-respin-xfce/blob/main/factory/installer/calamares/modules/users.conf#L12-L13)」，內容如下
+其中有一個模組設定「[/etc/calamares/modules/users.conf](https://github.com/samwhelp/lika-live-build-respin-xfce/blob/main/factory/installer/calamares/modules/users.conf#L12-L13)」，內容如下
 
 
 ```
@@ -83,7 +83,7 @@ setRootPassword: false
 
 編輯模組「[/etc/calamares/modules/users.conf](https://github.com/samwhelp/lika-live-build-respin-xfce/blob/main/factory/installer/calamares/modules/users.conf#L12-L13)」
 
-刪除「`lpadmin`」和「`scanner`」那兩行
+刪除或是註解「`lpadmin`」和「`scanner`」那兩行。
 
 
 
@@ -106,8 +106,9 @@ setRootPassword: false
 
 ## For Group: lpadmin
 
-> cups-client
-> cups-daemon
+> [cups-client](https://packages.debian.org/stable/cups-client)
+
+> [cups-daemon](https://packages.debian.org/stable/cups-client)
 
 執行
 
@@ -138,8 +139,9 @@ grep lpadmin /var/lib/dpkg/info/*.postinst -R | grep addgroup | less
 
 ## For Group: scanner
 
+> [sane-utils](https://packages.debian.org/stable/sane-utils)
 
-> sane-utils
+> [libsane1](https://packages.debian.org/stable/libsane1)
 
 執行
 
