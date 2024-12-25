@@ -108,7 +108,7 @@ setRootPassword: false
 
 > [cups-client](https://packages.debian.org/stable/cups-client)
 
-> [cups-daemon](https://packages.debian.org/stable/cups-client)
+> [cups-daemon](https://packages.debian.org/stable/cups-daemon)
 
 執行
 
