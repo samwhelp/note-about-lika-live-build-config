@@ -46,7 +46,7 @@ uid=1000(sam) gid=1000(sam) groups=1000(sam),24(cdrom),25(floppy),27(sudo),29(au
 其中有一個模組設定「[/etc/calamares/modules/users.conf](https://github.com/samwhelp/lika-live-build-respin-xfce/blob/main/factory/installer/calamares/modules/users.conf#L12-L13)」，內容如下
 
 
-```
+``` yaml
 ---
 userGroup:       users
 defaultGroups:
