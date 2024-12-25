@@ -12,6 +12,13 @@ grand_parent: 議題
 
 
 
+## 相關討論
+
+* [關於透過「Calamares Installer」安裝後，主要使用者的「GID」依然保持「1000」](https://github.com/orgs/LingmoOS/discussions/26#discussioncomment-11662007)
+
+
+
+
 ## 期望的系統
 
 在我期望的系統
