@@ -107,13 +107,25 @@ menuentry "Lika OS" --class Debian {
 | Account  | Value  |
 | -------- | ------ |
 | Username | `lika` |
-| Password | `live` |
+| Password | `lika` |
 
 若想要移除目前帳號的密碼，可以執行下面指令
 
 ``` sh
 sudo passwd -d $(whoami)
 ```
+
+
+> 請參考下面的實作: live-config components
+
+| live-config |
+| ---------------------- |
+| [/etc/live/config.conf.d/user.conf](https://github.com/samwhelp/lika-live-build-config/blob/main/master-config/common/includes.chroot_before_packages/etc/live/config.conf.d/user.conf) |
+
+| live-config / components |
+| ------------------------ |
+| [/usr/lib/live/config/0030-user-setup](https://salsa.debian.org/live-team/live-config/-/blob/master/components/0030-user-setup)
+| [/usr/lib/live/config/5010-user-change-password](https://github.com/samwhelp/lika-live-build-config/blob/main/master-config/common/includes.chroot_before_packages/usr/lib/live/config/5010-user-change-password) |
 
 
 
