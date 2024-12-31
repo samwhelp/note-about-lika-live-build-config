@@ -69,6 +69,30 @@
 | [lika-live-build-respin-xfce-with-kwin](https://samwhelp.github.io/lika-live-build-respin-xfce-with-kwin/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-xfce-with-kwin) |
 
 
+### Recipe
+
+| Link | GitHub |
+| ---- | ------ |
+| [lika-live-build-recipe-xfce-theme-vimix](https://samwhelp.github.io/lika-live-build-recipe-xfce-theme-vimix/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-xfce-theme-vimix) |
+| [lika-live-build-recipe-xfce-theme-orchis](https://samwhelp.github.io/lika-live-build-recipe-xfce-theme-orchis/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-xfce-theme-orchis) |
+| [lika-live-build-recipe-xfce-theme-graphite](https://samwhelp.github.io/lika-live-build-recipe-xfce-theme-graphite/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-xfce-theme-graphite) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [lika-live-build-recipe-kde-theme-vimix](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-vimix/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-vimix) |
+| [lika-live-build-recipe-kde-theme-orchis](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-orchis/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-orchis) |
+| [lika-live-build-recipe-kde-theme-graphite](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-graphite/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-graphite) |
+| [lika-live-build-recipe-kde-theme-layan](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-layan/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-layan) |
+| [lika-live-build-recipe-kde-theme-fluent](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-fluent/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-fluent) |
+| [lika-live-build-recipe-kde-theme-gruvbox](https://samwhelp.github.io/lika-live-build-recipe-kde-theme-gruvbox/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-kde-theme-gruvbox) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [lika-live-build-recipe-mate-theme-vimix](https://samwhelp.github.io/lika-live-build-recipe-mate-theme-vimix/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-mate-theme-vimix) |
+
+
 
 
 ## Boot ISO By GRUB
