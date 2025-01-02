@@ -33,3 +33,10 @@ echo 'nameserver 8.8.8.8' | sudo tee /etc/resolv.conf
 ```
 
 當透過「Debian Live Build」來製作「Live ISO」時，會自動將「主系統」的「/etc/resolv.conf」複製到「目標系統」，這樣就可以解除上面遇到的情況。
+
+
+> 請參考下面的實作: live-build / scripts
+
+| live-build / scripts |
+| -------------------- |
+| [/usr/lib/live/build/chroot_resolv](https://salsa.debian.org/live-team/live-build/-/blob/master/scripts/build/chroot_resolv)
