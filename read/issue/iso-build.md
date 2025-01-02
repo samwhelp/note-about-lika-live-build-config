@@ -33,3 +33,6 @@ run to sort by time, reverse order
 ``` sh
 ls -altr
 ```
+
+
+* [man ls](https://manpages.debian.org/stable/coreutils/ls.1.en.html)
