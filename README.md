@@ -145,7 +145,7 @@ sudo passwd -d $(whoami)
 ```
 
 
-> 請參考下面的實作: live-config components
+> 請參考下面的實作: live-config / components
 
 | live-config |
 | ---------------------- |
