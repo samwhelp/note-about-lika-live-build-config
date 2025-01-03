@@ -32,6 +32,15 @@ nameserver 8.8.8.8
 echo 'nameserver 8.8.8.8' | sudo tee /etc/resolv.conf
 ```
 
+若是要附加到「/etc/resolv.conf」，則是執行下面指令（多了個參數「-a」）
+
+``` sh
+echo 'nameserver 8.8.8.8' | sudo tee -a /etc/resolv.conf
+```
+
+> 上面的「`8.8.8.8`」也可以改為「`1.1.1.1`」
+
+
 當透過「Debian Live Build」來製作「Live ISO」時，會自動將「主系統」的「/etc/resolv.conf」複製到「目標系統」，這樣就可以解除上面遇到的情況。
 
 
